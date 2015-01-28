@@ -1,0 +1,28 @@
+{
+  "name": "osx-add-to-readinglist",
+  "version": "1.0.0",
+  "description": "Add the active URL in Google Chrome to Safari Reading List",
+  "main": "dist/Add to Reading List.app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvanbaalen/osx-add-to-readinglist.git"
+  },
+  "keywords": [
+    "safari",
+    "icloud",
+    "reading",
+    "list",
+    "list",
+    "chrome",
+    "google"
+  ],
+  "author": "Robin van Baalen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rvanbaalen/osx-add-to-readinglist/issues"
+  },
+  "homepage": "https://github.com/rvanbaalen/osx-add-to-readinglist"
+}
